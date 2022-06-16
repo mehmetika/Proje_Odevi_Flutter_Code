@@ -1,6 +1,8 @@
-# projeodevi
+# Crypto Payment
 
-Proje Odevi
+Crypto Payment Mobile Flutter App 
+
+
 
 ## Getting Started
 
