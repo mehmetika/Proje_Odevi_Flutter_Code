@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6704047346",
+    "project_id": "projeodevi-da145",
+    "storage_bucket": "projeodevi-da145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6704047346:android:3c32921001da56d5b39c6b",
+        "android_client_info": {
+          "package_name": "com.projeodevi.projeodevi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6704047346-ko0plbelak189ud22gmfmhlh07olo4l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7xecMOYLLwY8NR3Y6vsN7a-wZNs4-xR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6704047346-ko0plbelak189ud22gmfmhlh07olo4l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
